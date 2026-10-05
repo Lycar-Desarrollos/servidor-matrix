@@ -1,0 +1,13 @@
+{
+    "default_server_config": {
+        "m.homeserver": {
+            "base_url": "http://SERVER_IP:8008",
+            "server_name": "SERVER_IP"
+        },
+        "m.identity_server": {
+            "base_url": ""
+        }
+    },
+    "brand": "Element",
+    "default_theme": "dark"
+}

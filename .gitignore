@@ -1,0 +1,11 @@
+# Secretos y datos del servidor (se generan en la Mac con setup.sh)
+.env
+data/
+element-config.json
+
+# Archivos de Windows de la fase de pruebas
+*.bat
+
+# Sistema
+.DS_Store
+Thumbs.db
